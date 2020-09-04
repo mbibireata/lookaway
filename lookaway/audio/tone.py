@@ -10,9 +10,4 @@ class Tone:
 
     def set_duration(self, duration):
         self.duration = duration
-
-    def get_freq(self):
-        return self.freq
-
-    def get_duration(self):
-        return self.duration
+       return self.duration
